@@ -20,7 +20,7 @@
     },
     "dependencies": {
         "dnode": "~1.0.5",
-        "shoe": "~0.0.10"
+        "shoe": "https://github.com/valiton/shoe/tarball/master"
     },
     "devDependencies": {
         "browserify": "1.10.9",
